@@ -1,4 +1,4 @@
-# Machine Learning projects  
+# Machine Learning Projects  
 
 
 ### Project 1
