@@ -1,2 +1,2 @@
-# MSchijns-Portfolio
+# Michael Schijns Portfolio
 Machine Learning projects  
