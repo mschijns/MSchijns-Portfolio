@@ -1,6 +1,3 @@
-Machine Learning Projects  
-
-
 ### Project 1
 
 
